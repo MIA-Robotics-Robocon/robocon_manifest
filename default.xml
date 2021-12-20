@@ -4,7 +4,7 @@
            fetch="ssh://git@github.com/"
            revision="main"/>
   <remote  name="github"
-           fetch="ssh://git@github.com:MIA-Robotics-Robocon/"
+           fetch="ssh://git@github.com/MIA-Robotics-Robocon/"
            revision="main"/>
            
   <project path="Last_year_repo" name="Mohammad1722/Robocon21_MIA" remote="private" />
