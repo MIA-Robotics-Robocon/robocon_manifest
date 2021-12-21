@@ -2,7 +2,7 @@
 
 ## Getting started
 - Follow [this](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) tutorial to get git ready
-- Use these commands to install Repo
+- Use these commands to install Repo:
 ```bash
 mkdir -p ~/.bin
 PATH="${HOME}/.bin:${PATH}"
