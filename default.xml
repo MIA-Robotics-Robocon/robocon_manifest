@@ -7,7 +7,7 @@
            fetch="ssh://git@github.com/MIA-Robotics-Robocon/"
            revision="main"/>
            
-  <project path="robocon_ws" name="robocon_ws" remote="github" />
+  <project path="robocon_ws" name="robocon_robocon-ws" remote="github" />
   <project path="libraries" name="robocon_libraries" remote="github" />
 
 </manifest>
