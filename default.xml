@@ -11,6 +11,9 @@
   <project path="libraries" name="robocon_libraries" remote="github" />
   <project path="robocon_ws/src/localization" name="robocon_robocon-ws_src_localization" remote="github" />
   <project path="robocon_ws/src/rplidar_ros" name="Slamtec/rplidar_ros.git" remote="private" revision="master" />
+  <project path="low_level/localization" name="robocon_low-level_localization" remote="github" />
+  <project path="robocon_ws/src/control" name="robocon_robocon-ws_src_control" remote="github" />
+  <project path="low_level/control" name="robocon_low-level_control" remote="github" />
   
   
 </manifest>
