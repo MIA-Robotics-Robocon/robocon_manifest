@@ -10,6 +10,7 @@
            
   <project path="robocon_ws" name="robocon_robocon-ws" remote="github" />
   <project path="libraries" name="robocon_libraries" remote="github" />
+  <project path="computer_vision" name="robocon_computer-vision" remote="github" />
   <project path="robocon_ws/src/localization" name="robocon_robocon-ws_src_localization" remote="github" />
   <project path="robocon_ws/src/mapping" name="robocon_robocon-ws_src_mapping" remote="github" />
   <project path="robocon_ws/src/rplidar_ros" name="Slamtec/rplidar_ros.git" remote="private" revision="master" />
