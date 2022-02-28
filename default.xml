@@ -12,6 +12,7 @@
   <project path="libraries" name="robocon_libraries" remote="github" />
   <project path="computer_vision" name="robocon_computer-vision" remote="github" />
   <project path="robocon_ws/src/localization" name="robocon_robocon-ws_src_localization" remote="github" />
+  <project path="robocon_ws/src/obstacle_detector" name="robocon_robocon-ws_src_obstacle-detector" remote="github" />
   <project path="robocon_ws/src/mapping" name="robocon_robocon-ws_src_mapping" remote="github" />
   <project path="robocon_ws/src/rplidar_ros" name="robocon_robocon-ws_src_rplidar_ros" remote="github"/>
   <project path="robocon_ws/src/control" name="robocon_robocon-ws_src_control" remote="github" />
