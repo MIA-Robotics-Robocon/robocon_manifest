@@ -19,3 +19,7 @@ Then to sync up:
 ```bash
 repo sync
 ```
+Finally type:
+```bash
+repo start main --all
+```
